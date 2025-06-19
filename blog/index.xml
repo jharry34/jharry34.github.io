@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Harry&#39;s Blog</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://jharry34.github.io/blog/</link>
     <description>Recent content in Blogs on Harry&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Jun 2025 00:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jharry34.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>步入中年從零開始轉職成後端工程師</title>
-      <link>http://localhost:1313/blog/-career-changing/</link>
+      <link>https://jharry34.github.io/blog/-career-changing/</link>
       <pubDate>Mon, 09 Jun 2025 00:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/blog/-career-changing/</guid>
+      <guid>https://jharry34.github.io/blog/-career-changing/</guid>
       <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;距今約莫十年前，我也是個對未來充滿理想的有志青年。大學畢業後，我投身於機械產業，從學徒做起，一路成長為熟悉工程實務的工程負責人。&#xA;&lt;p&gt;然而，隨著國際間削價競爭加劇，機械產業逐漸將生產重心轉往東南亞。30歲那年，我站在人生的十字路口，決定參加後端工程師的培訓班，毅然決然地投入轉職。&lt;/p&gt;&#xA;&lt;p&gt;而這名軟體工程師的故事，也就此展開……&lt;/p&gt;&#xA;&lt;h2 id=&#34;心態準備&#34;&gt;心態準備&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;學生時期的我並不突出，成績也很普通。但這是否就代表我註定平庸？我不這麼認為。&#xA;&lt;p&gt;我選擇改變，從課堂最後一排走到第一排，全力以赴。因為我知道，我的目標不只是結訓，而是補足過去六年在軟體領域的空白，甚至超越本科出身的同儕。&lt;/p&gt;&#xA;&lt;p&gt;也想鼓勵同樣在轉職路上的中年人：不要被年齡限制，只要起步，就永遠不嫌晚。&lt;/p&gt;&#xA;&lt;h2 id=&#34;讀書規劃&#34;&gt;讀書規劃&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;課程方面&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;依照課表準時上課，絕不遲到早退。下課後固定花 1 至 2 小時進行複習與作業練習，遇到不懂的地方，務必在下次上課前向老師釐清，避免累積技術債。&lt;/p&gt;</description>
     </item>
   </channel>
