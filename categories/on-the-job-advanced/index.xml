@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Harry&#39;s Blog</title>
-    <link>https://jharry34.github.io/blog/</link>
-    <description>Recent content in Blogs on Harry&#39;s Blog</description>
+    <title>On-the-Job Advanced on Harry&#39;s Blog</title>
+    <link>https://jharry34.github.io/categories/on-the-job-advanced/</link>
+    <description>Recent content in On-the-Job Advanced on Harry&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0800</lastBuildDate>
-    <atom:link href="https://jharry34.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jharry34.github.io/categories/on-the-job-advanced/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>114年度中央資管在職碩申請分享</title>
       <link>https://jharry34.github.io/blog/master-program-application/</link>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0800</pubDate>
       <guid>https://jharry34.github.io/blog/master-program-application/</guid>
       <description>&lt;h2 id=&#34;申請動機&#34;&gt;申請動機&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;隨著軟體技術日新月異，我持續透過自主學習精進自身能力，也逐漸萌生申請在職專碩的想法。考量通勤距離與學校資源，我將中央大學資訊管理研究所在職專班列為首要目標。趁著年底簡章公告，開始著手準備相關申請資料。&lt;/p&gt;&#xA;&lt;h2 id=&#34;準備事項&#34;&gt;準備事項&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;根據簡章，114 年度的評分標準為&lt;strong&gt;書審與口試各佔 50%&lt;/strong&gt;，以下為我針對兩項準備的經驗分享：&lt;/p&gt;&#xA;&lt;h4 id=&#34;-書面審查重點建議&#34;&gt;📄 書面審查重點建議&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;申請動機&lt;/strong&gt;：展現強烈的就學動機，有助於呈現完成課業的決心。例如：希望將 AI 導入企業應用，藉由學術研究深化實務能力。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;工作成就&lt;/strong&gt;：有利於教授了解你在職場的表現，如年度考核、技術競賽、內部分享等具體成果。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;讀書計畫&lt;/strong&gt;：明確的時間安排與研究方向能讓教授看出你的規劃與執行力。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;補充資料&lt;/strong&gt;：依照簡章要求補充履歷、自傳、推薦信等資料，完整度也很重要。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;-口試準備要點&#34;&gt;🗣️ 口試準備要點&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;服裝建議&lt;/strong&gt;：男生穿著正式西裝，女生選擇專業套裝，給評審良好第一印象。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;自我介紹&lt;/strong&gt;：建議準備 30 秒與 1 分鐘版本，涵蓋時間安排、學習動機與職涯目標，並盡可能熟練背誦，避免臨場緊張。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;考古題與產業時事&lt;/strong&gt;：可透過網路查找學長姐經驗，預備常見問題，同樣以雙版本（30 秒與 1 分鐘）方式練習，加上平時對產業動態的關注，足以應對考官提問。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;總結&#34;&gt;總結&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;了解自己的動機與目的是申請在職碩的重要關鍵。雖然網路上不乏對在職專班的正反意見，但我也見證到許多優秀的在職人士持續精進自己。我相信透過學界與業界的交流，能獲得更多啟發與成長。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>步入中年從零開始轉職成後端工程師</title>
-      <link>https://jharry34.github.io/blog/-career-changing/</link>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 +0800</pubDate>
-      <guid>https://jharry34.github.io/blog/-career-changing/</guid>
-      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;距今約莫十年前，我也是個對未來充滿理想的有志青年。大學畢業後，我投身於機械產業，從學徒一路成長為工程負責人。&#xA;&lt;p&gt;然而，隨著國際間削價競爭加劇，機械產業逐漸將生產重心轉往東南亞。30歲那年，我毅然決然投身 Backend Development Bootcamp，展開我的軟體人生。&lt;/p&gt;&#xA;&lt;h2 id=&#34;心態準備&#34;&gt;心態準備&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;學生時期的我庸庸碌碌，對未來也沒有明確方向，想當然爾，成績也相當平庸。&#xA;&lt;p&gt;與其後悔過去的渾渾噩噩，不如從此刻開始改變學習態度，因為我知道，我的長期目標是追上並超越本科系的學生。&lt;/p&gt;&#xA;&lt;p&gt;也想鼓勵同樣在轉職路上的中年人：不要被年齡限制，只要起步，就永遠不嫌晚。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
